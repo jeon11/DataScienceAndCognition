@@ -1,0 +1,757 @@
+   1     Indians or Afrikan
+   2     adores sweetness
+   3     also lives in the city
+   4     always falls on its paws
+   5     appears in comics
+   6     appears in fairy tales and stories
+   7     appears in songs
+   8     associated with vampires
+   9     attaches to the body
+  10     attacks
+  11     attic
+  12     barks
+  13     becomes a butterfly
+  14     becomes cocoon
+  15     big ears
+  16     bites
+  17     bleats
+  18     blows up its cheeks
+  19     brays
+  20     breaths under water
+  21     breeds rapidly
+  22     brings children
+  23     builds dams
+  24     builds nests
+  25     builds nests at high altitude
+  26     bushy tail
+  27     buzzes
+  28     can also refer to a tent stake
+  29     can be a greeting
+  30     can be aggressive
+  31     can be bred
+  32     can be caught
+  33     can be cooked in different ways
+  34     can be cured
+  35     can be dangerous
+  36     can be disadvantageous to harvest
+  37     can be fed
+  38     can be filled up
+  39     can be found in a fish shop
+  40     can be found in the ardennes
+  41     can be killed with a fly swatter
+  42     can be lethal to man
+  43     can be poisonous
+  44     can be seen on safaris
+  45     can be taught tricks
+  46     can be trained
+  47     can be used in a salad
+  48     can be won at a fair
+  49     can become pest
+  50     can cause much hinder
+  51     can climb up a wall
+  52     can climb well
+  53     can do without water for long periods
+  54     can eat people
+  55     can fly
+  56     can jump far
+  57     can kill people
+  58     can live for a long time without food
+  59     can live to a ripe old age
+  60     can loose its tail
+  61     can open its tail
+  62     can purr
+  63     can see in the dark
+  64     can sing beautifully
+  65     can swim
+  66     can talk
+  67     can't fly
+  68     carries a ring
+  69     carries over diseases
+  70     cartoon figure
+  71     catches mice
+  72     cattle-like animal
+  73     causes itching
+  74     chews the cud
+  75     children like to catch them
+  76     chirps
+  77     climbs in trees
+  78     clucks on trees
+  79     collects nuts
+  80     comes out of a cocoon
+  81     comes to the surface when it rains
+  82     comes up to light
+  83     comes up to the surface for air
+  84     comes up when it rains
+  85     communicates with its congeners
+  86     compound eyes
+  87     crawls
+  88     crawls up trees
+  89     creaks when killed
+  90     crows
+  91     curly tail
+  92     dark colour
+  93     descend from the dinosaur
+  94     descends from wolves
+  95     difficult to exterminate
+  96     digs holes
+  97     does not lay eggs
+  98     does not live in Belgium
+  99     does not migrate in the winter
+ 100     doesn't herd
+ 101     doesn't live in our country
+ 102     doesn't live long
+ 103     doesn't live on land
+ 104     doesn't make a sound
+ 105     doesn't sting
+ 106     drinks water
+ 107     earths
+ 108     eats acorns
+ 109     eats bananas
+ 110     eats berries
+ 111     eats bread
+ 112     eats cheese
+ 113     eats chicken
+ 114     eats everything
+ 115     eats fish
+ 116     eats flies
+ 117     eats food for fish
+ 118     eats frogs
+ 119     eats from flowers
+ 120     eats fruit
+ 121     eats grain
+ 122     eats grass
+ 123     eats hay
+ 124     eats insects
+ 125     eats leaves from trees
+ 126     eats mice
+ 127     eats nectar
+ 128     eats nuts
+ 129     eats people
+ 130     eats plankton
+ 131     eats plant lice
+ 132     eats plants
+ 133     eats rats and mice
+ 134     eats salad
+ 135     eats seals
+ 136     eats seed
+ 137     eats small animals
+ 138     eats worms
+ 139     endangered species
+ 140     especially lives at the coast
+ 141     especially lives in the country
+ 142     especially occurs in the winter
+ 143     exists for ages
+ 144     exists in different sizes and kinds
+ 145     external skeleton
+ 146     extracts nectar from flowers
+ 147     family of the camel
+ 148     family of the dog
+ 149     family of the horse
+ 150     feels soft
+ 151     feline
+ 152     filtrate food out of the water with its bill
+ 153     flat tail
+ 154     flies high
+ 155     flies in formation
+ 156     floats on water
+ 157     fluffy
+ 158     flutters
+ 159     frightens people
+ 160     gabbles
+ 161     gets lambs
+ 162     gives milk
+ 163     gives pain
+ 164     gnaws on everything
+ 165     goes from flower to flower
+ 166     goes slowely
+ 167     good sense of smell
+ 168     grazes
+ 169     grey-white
+ 170     has a 'collar' in its neck
+ 171     has a beautiful tail
+ 172     has a big bill
+ 173     has a big mouth
+ 174     has a bill
+ 175     has a crest
+ 176     has a fin on its back
+ 177     has a flat head
+ 178     has a fur (in dutch: vacht)
+ 179     has a head
+ 180     has a hooked bill
+ 181     has a horn
+ 182     has a hump to store water
+ 183     has a hunch
+ 184     has a large tail
+ 185     has a large wingspread
+ 186     has a long bill
+ 187     has a long neck
+ 188     has a long nose in the shape of a sword
+ 189     has a long tail
+ 190     has a long tongue
+ 191     has a mouth
+ 192     has a pointed mouth
+ 193     has a pointed snout
+ 194     has a pungent smell
+ 195     has a red breast
+ 196     has a red dewlap
+ 197     has a rough skin
+ 198     has a sharp view
+ 199     has a shield
+ 200     has a small bill
+ 201     has a small head
+ 202     has a small tail
+ 203     has a split tongue
+ 204     has a sting
+ 205     has a tail
+ 206     has a tongue
+ 207     has a trunk
+ 208     has a woollen fur
+ 209     has a yellow bill
+ 210     has an airhole
+ 211     has an eye on its feathers
+ 212     has an orange bill
+ 213     has an oval shape
+ 214     has an udder
+ 215     has antlers
+ 216     has beady eyes
+ 217     has beautiful feathers
+ 218     has black eyes
+ 219     has bones
+ 220     has bright colours
+ 221     has camouflage
+ 222     has claws
+ 223     has downy hair
+ 224     has eight arms
+ 225     has eight paws
+ 226     has eyes
+ 227     has fat legs
+ 228     has feathers
+ 229     has feelers
+ 230     has fins
+ 231     has four paws
+ 232     has gills
+ 233     has gnawing teeth
+ 234     has hierarchy
+ 235     has hoofs
+ 236     has horns
+ 237     has large eyes
+ 238     has large front teeth
+ 239     has large theeth
+ 240     has legs
+ 241     has little eyes
+ 242     has long ears
+ 243     has long hind legs
+ 244     has long paws
+ 245     has manes
+ 246     has many colours
+ 247     has many paws
+ 248     has many teeth
+ 249     has no paws
+ 250     has other name: drosophila
+ 251     has peepers
+ 252     has pointy ears
+ 253     has poison fangs
+ 254     has queen
+ 255     has ribs
+ 256     has rings
+ 257     has round eyes
+ 258     has scales
+ 259     has several stomachs
+ 260     has sharp claws
+ 261     has sharp teeth
+ 262     has short paws
+ 263     has six paws
+ 264     has small paws
+ 265     has suckers
+ 266     has teeth
+ 267     has tentacles
+ 268     has tusks
+ 269     has two ears
+ 270     has two eyes
+ 271     has two paws
+ 272     has two wings
+ 273     has warts
+ 274     has whiskers
+ 275     has white and black stripes
+ 276     has wings
+ 277     has winter and summerfur
+ 278     has young = cubs
+ 279     hatches out other eggs
+ 280     hibernates
+ 281     hides easily
+ 282     howls
+ 283     hunts
+ 284     hunts chicken
+ 285     in a terrarium
+ 286     incites fear
+ 287     indians hunted it
+ 288     inspiration for Batman
+ 289     intelligent
+ 290     is a bird
+ 291     is a bird of prey
+ 292     is a carnivore
+ 293     is a carnivore and herbivore
+ 294     is a character in Free Willy
+ 295     is a delicacy
+ 296     is a fish
+ 297     is a freshwater fish
+ 298     is a girl's name
+ 299     is a kind of bear
+ 300     is a male chicken
+ 301     is a migratory bird
+ 302     is a pet
+ 303     is a prototypical bird
+ 304     is a reptile
+ 305     is a salt-water fish
+ 306     is a scavenging animal
+ 307     is a symbol for peace
+ 308     is a thief
+ 309     is a type of bee
+ 310     is a type of beetle
+ 311     is a type of butterfly
+ 312     is a type of fly
+ 313     is a type of whale
+ 314     is afraid of people
+ 315     is also a sharp
+ 316     is also referred to as eel
+ 317     is an amphibian
+ 318     is an animal
+ 319     is an animal of prey
+ 320     is an articulate animal
+ 321     is an exotic animal
+ 322     is an insect
+ 323     is athrodopal
+ 324     is attracted by shiny objects
+ 325     is baked
+ 326     is beautiful
+ 327     is beige
+ 328     is bigger than a chicken
+ 329     is black
+ 330     is black and white
+ 331     is blue
+ 332     is bluish grey
+ 333     is brown
+ 334     is brown/black
+ 335     is cause for arachnophobia
+ 336     is cold-blooded
+ 337     is collected
+ 338     is coloured
+ 339     is cute
+ 340     is cute when it's young
+ 341     is dangerous
+ 342     is dangerous to people
+ 343     is difficult to remove from one's body
+ 344     is eaten (with plums)
+ 345     is eaten as first-course
+ 346     is eaten by birds
+ 347     is eaten by other animals
+ 348     is eaten on Thanksgiving
+ 349     is eaten on festive dinners
+ 350     is eaten when it's Christmas
+ 351     is eaten with tomato sauce
+ 352     is edible
+ 353     is elongated
+ 354     is expensive
+ 355     is exterminated
+ 356     is extinct
+ 357     is female
+ 358     is fin-footed
+ 359     is first a tadpole
+ 360     is fished for
+ 361     is flat
+ 362     is food for larger animals
+ 363     is found all around the world
+ 364     is found in Belgium
+ 365     is found in a pond
+ 366     is found in advertising or as brand 
+ 367     is found in clothing
+ 368     is found in earth
+ 369     is found in hair
+ 370     is found in the garden
+ 371     is found in warm places
+ 372     is found mainly in southern countries
+ 373     is found on animals
+ 374     is found on dogs and cats
+ 375     is found on plants
+ 376     is friendly
+ 377     is funny
+ 378     is good at diving
+ 379     is good for soil
+ 380     is good for the environment
+ 381     is greasy
+ 382     is green
+ 383     is green-brown
+ 384     is grey
+ 385     is healthy
+ 386     is hermaphrodite
+ 387     is hunted
+ 388     is in a cuckoo clock
+ 389     is inconspicious
+ 390     is initially a caterpillar 
+ 391     is intelligent
+ 392     is irritating
+ 393     is kept by a pigeon fancier
+ 394     is killed by man
+ 395     is large and fat
+ 396     is lethal
+ 397     is light
+ 398     is lithe
+ 399     is long
+ 400     is medium-sized
+ 401     is messy
+ 402     is mostly grey brown
+ 403     is nasty
+ 404     is not a pet
+ 405     is not dangerous
+ 406     is not eaten
+ 407     is not expensive
+ 408     is not good at flying
+ 409     is not poisonous
+ 410     is not verry big
+ 411     is not very popular among man
+ 412     is often found on dogs
+ 413     is often found under rocks
+ 414     is often released after a wedding
+ 415     is orange
+ 416     is parasite
+ 417     is pickled
+ 418     is pink
+ 419     is poisonous
+ 420     is popular and appreciated
+ 421     is proud
+ 422     is rare
+ 423     is red
+ 424     is red or black
+ 425     is red with black spots
+ 426     is reddish brow
+ 427     is round
+ 428     is sandy-coloured
+ 429     is scary
+ 430     is seasonal
+ 431     is served as rings from cephalopod
+ 432     is served in a restaurant
+ 433     is short haired
+ 434     is silvery
+ 435     is slaughtered
+ 436     is slippery
+ 437     is slow
+ 438     is sly
+ 439     is small
+ 440     is smart
+ 441     is smooth
+ 442     is sold at the market
+ 443     is sometimes eaten by man
+ 444     is specked
+ 445     is spectacular
+ 446     is strong
+ 447     is sweet 
+ 448     is tasty
+ 449     is terrifying
+ 450     is the main character in 'Flipper'
+ 451     is the main character in 'Jaws'
+ 452     is tinned
+ 453     is tinned in oil
+ 454     is ugly
+ 455     is unhygienic
+ 456     is used as food for reptiles
+ 457     is used in competitions
+ 458     is used in shows
+ 459     is used in stewed eels in chervil sauce
+ 460     is used in the saying 'packed like sardines in a tin'
+ 461     is used on pizza's
+ 462     is used to make cod-liver oil
+ 463     is vermin
+ 464     is very active
+ 465     is well camouflaged
+ 466     is white
+ 467     is white/brown
+ 468     is yellow and black
+ 469     is yellow with brown spots
+ 470     it is sometimes put in a basket
+ 471     jumps
+ 472     jumps in the water
+ 473     kind of alligator
+ 474     kind of crocodile
+ 475     kind of frog
+ 476     kind of lizard
+ 477     kind of snake
+ 478     king of animals
+ 479     known laying in supplies for the winter
+ 480     large nostrils
+ 481     lays big eggs
+ 482     lays eggs
+ 483     lays eggs in sand
+ 484     lays eggs in the nests of other birds
+ 485     lays frogspawn
+ 486     lazy
+ 487     leading figures in Jurassic Parc
+ 488     leaves stains on one's skin
+ 489     leaves stings
+ 490     lies motionless in the water
+ 491     lies on the sea-floor
+ 492     likes humidity
+ 493     likes rolling in mud
+ 494     likes to eat carrots
+ 495     live in the mountains
+ 496     lives among human beings
+ 497     lives by the sea
+ 498     lives in Africa
+ 499     lives in America
+ 500     lives in Europe
+ 501     lives in a cage
+ 502     lives in a chicken coop
+ 503     lives in a damp climate
+ 504     lives in a dolfinarium
+ 505     lives in a herd
+ 506     lives in a hive
+ 507     lives in a hole
+ 508     lives in a swamp
+ 509     lives in australia
+ 510     lives in caves
+ 511     lives in cold areas
+ 512     lives in distant countries
+ 513     lives in dry areas
+ 514     lives in families
+ 515     lives in grass
+ 516     lives in nests
+ 517     lives in the North Sea
+ 518     lives in the dark
+ 519     lives in the desert
+ 520     lives in the jungle
+ 521     lives in the ocean
+ 522     lives in the open air
+ 523     lives in the polar regions
+ 524     lives in the primaeval forest
+ 525     lives in the sea
+ 526     lives in the wild
+ 527     lives in the woods
+ 528     lives in the zoo
+ 529     lives in trees
+ 530     lives in tropical waters
+ 531     lives in unhygienic places
+ 532     lives in warm countries
+ 533     lives in water
+ 534     lives nearby ponds
+ 535     lives nearby the water
+ 536     lives on a farm
+ 537     lives on land  
+ 538     lives on land and sea
+ 539     lives on the ground
+ 540     lives on the north pole
+ 541     lives on the steppe
+ 542     lives on when split in half
+ 543     lives outdoors
+ 544     lives under the ground
+ 545     long hair
+ 546     looks clumsy
+ 547     looks like a crocodile
+ 548     looks like a frog
+ 549     looks like a lizard
+ 550     looks like a mosquito
+ 551     looks like a salamander
+ 552     looks like a snail
+ 553     looks like a snake
+ 554     lots of hair
+ 555     loyal
+ 556     makes a 'coo' sound
+ 557     makes a 'tok tok' sound
+ 558     makes a hissing noise
+ 559     makes a recognizable sound
+ 560     makes a sharp sound
+ 561     makes a sound like a grunt
+ 562     makes a squeaky sound
+ 563     makes a strange noise
+ 564     makes an 'oehoe' sound
+ 565     makes an extremely irritating sound
+ 566     makes ant hills in sand/earth
+ 567     makes holes in clothing
+ 568     makes holes in trees
+ 569     makes honey
+ 570     makes not much noise
+ 571     makes web
+ 572     male cow = bull
+ 573     mammal
+ 574     marsupial
+ 575     miaows
+ 576     moos
+ 577     mothballs as a remedy
+ 578     mousetrap
+ 579     neutral scent
+ 580     nocturnal animal
+ 581     not friendly with dogs
+ 582     occasionally occurs in films
+ 583     occasionally washes ashore
+ 584     occurs frequently
+ 585     often becoms a cat's prey
+ 586     often run over by cars
+ 587     often sits in parks
+ 588     often sits still
+ 589     often sits under a piece of wood
+ 590     often used as guard
+ 591     often used as laboratory animal
+ 592     opens its tail when it is scared
+ 593     pecks
+ 594     pig nose
+ 595     predecessor of humans
+ 596     prehistoric animal
+ 597     prey
+ 598     produces blub-sound
+ 599     produces nits
+ 600     protected species
+ 601     quacks
+ 602     raised by bee-keeper
+ 603     related to wasp
+ 604     reproduces fast
+ 605     resembles a worm
+ 606     resembles camels
+ 607     resembles cows
+ 608     resembles horses
+ 609     resembles humans
+ 610     roar
+ 611     rodent
+ 612     rolls up in danger
+ 613     rough
+ 614     runs fast
+ 615     runs in a mill
+ 616     savanne
+ 617     says cuckoo
+ 618     says heehaw
+ 619     seems mean
+ 620     seen mainly in summer
+ 621     sheared for wool
+ 622     sheds its skin
+ 623     shoes and handbags are made of it
+ 624     short front legs
+ 625     shot for its skin
+ 626     shy
+ 627     sings
+ 628     sings (whistles)
+ 629     sits on flowers
+ 630     sits on fruit
+ 631     sits on threads of electricity
+ 632     skeletons in museum
+ 633     skilful person
+ 634     skin can be used for clothes
+ 635     slaughtered as sacrifice
+ 636     sleeps on a stick
+ 637     sleeps upside down
+ 638     small and large kinds
+ 639     small cows are calfs
+ 640     small ears
+ 641     smaller than a horse
+ 642     smells blood
+ 643     soft fur
+ 644     some people are allergic to it
+ 645     sometimes lives in church towers 
+ 646     sometimes stands on one paw
+ 647     somtimes used in a circus
+ 648     soup is made of it
+ 649     spits
+ 650     squirts ink
+ 651     squirts water through an airhole
+ 652     stands in meadows
+ 653     stands in the stable
+ 654     sticks its head into the ground
+ 655     stings
+ 656     stinks
+ 657     strangles its prey
+ 658     striped
+ 659     strong animal
+ 660     stubborn
+ 661     sucks blood
+ 662     swallows its prey in its entirety
+ 663     swims in a bowl 
+ 664     swims in aquariums
+ 665     swims in rivers
+ 666     swims upstream to lay eggs
+ 667     swings from tree to tree
+ 668     takes good care of her children
+ 669     takes on the colour of its surroundings
+ 670     tands in the crib (xmass)
+ 671     term of abuse (in dutch)
+ 672     the female is brown
+ 673     the legs are eaten
+ 674     the male occurs in different colours
+ 675     the meat is eaten
+ 676     thick skin
+ 677     tickles
+ 678     timid animal
+ 679     transferable
+ 680     turns in its shell in danger
+ 681     typical ennemy of a cat
+ 682     used as a beast of burden
+ 683     used as a draught animal
+ 684     used in research
+ 685     used to carry around mail
+ 686     uses pollen from flowers
+ 687     usually has one young at a time
+ 688     vomits pellets
+ 689     waddles
+ 690     wags
+ 691     wakes up
+ 692     was used in medical science in earlier times
+ 693     when small piglet
+ 694     wild animal
+ 695     wings run
+ 696     writhes (twists)
+ 697     yellow
+ 698     you can find them in homes
+ 699     you can ride on it
+ 700     zebra crossing (pedestrian-)
+ 701     "as the saying goes ""ain the grass"""
+ 702     "can be brown, black, white, grey"
+ 703     "in dutch expression: once bitten, twice shy"
+ 704     "is grey, black and white"
+ 705     "is grey, brown or white"
+ 706     "is red, brown"
+ 707     "long hind legs, short forelegs"
+ 708     appears in the tv-programme Skippy
+ 709     assosciated with wisdom
+ 710     beautiful colours
+ 711     cackles
+ 712     can have different colors
+ 713     can turn his head very far
+ 714     carries its child in a pouch
+ 715     cumbersome
+ 716     does not smell well
+ 717     does not taste well
+ 718     doesn't have 1000 paws
+ 719     fragile
+ 720     glides
+ 721     graceful
+ 722     hairy
+ 723     hard
+ 724     has big claws 
+ 725     has prickles
+ 726     has several gaits ao gallop
+ 727     heavy
+ 728     herds
+ 729     in the morning
+ 730     is aggressive
+ 731     is big
+ 732     is difficult to catch
+ 733     is dumb
+ 734     is fast
+ 735     is grisly
+ 736     is popular among children
+ 737     is slimy
+ 738     is the female of the cock
+ 739     is thick
+ 740     is used in fights
+ 741     live alone
+ 742     lives in fields
+ 743     lives in nature
+ 744     lives in tropical areas
+ 745     long teeth
+ 746     loves wood
+ 747     makes a lot of clamor
+ 748     makes a sound
+ 749     more used in agriculture in the past
+ 750     moves by contracting
+ 751     neighs
+ 752     rises early
+ 753     spring
+ 754     tastes salty
+ 755     the boss among the chickens
+ 756     there are many kinds of it
+ 757     you can boil it
